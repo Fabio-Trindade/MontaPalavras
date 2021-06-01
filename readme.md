@@ -14,7 +14,7 @@
 ### Palavras armazenadas
 
 
-"Abacaxi", "Manada", "mandar", "porta", "mesa", "Dado", "Mangas", "Já", "coisas", "radiografia","matemática", "Drogas", "prédios","implementação", "computador", "balão", "Xícara", "Tédio","faixa", "Livro", "deixar", "superior","Profissão","Reunião","Prédios", "Montanha", "Botânica","Banheiro", "Caixas","Xingamento","Infestação","Cupim","Premiada", "empanada", "Ratos","Ruído", "Antecedente", "Empresa", "Emissário", "Folga", "Fratura", "Goiaba", "Gratuito","Hídrico", "Homem", "Jantar","Jogos","Montagem", "Manual", "Nuvem", "Neve", "Operação","Ontem", "Pato", "Pé", "viagem", "Queijo", "Quarto", "Quintal", "Solto", "rota", "Selva","Tatuagem", "Tigre", "Uva", "Último", "Vitupério", "Voltagem", "Zangado", "Zombaria", "Dor","boi"
+"Abacaxi", "Manada", "mandar", "porta", "mesa", "Dado", "Mangas", "Já", "coisas", "radiografia","matemática", "Drogas", "prédios","implementação", "computador", "balão", "Xícara", "Tédio","faixa", "Livro", "deixar", "superior","Profissão","Reunião","Prédios", "Montanha", "Botânica","Banheiro", "Caixas","Xingamento","Infestação","Cupim","Premiada", "empanada", "Ratos","Ruído", "Antecedente", "Empresa", "Emissário", "Folga", "Fratura", "Goiaba", "Gratuito","Hídrico", "Homem", "Jantar","Jogos","Montagem", "Manual", "Nuvem", "Neve", "Operação","Ontem", "Pato", "Pé", "viagem", "Queijo", "Quarto", "Quintal", "Solto", "rota", "Selva","Tatuagem", "Tigre", "Uva", "Último", "Vitupério", "Voltagem", "Zangado", "Zombaria", "Dor","boi".
 
 
 ### Pontuação
@@ -35,5 +35,5 @@
 
 * Como utilizar:
   * Clone este repositório com : ``` git clone https://github.com/Fabio-Trindade/montaPalavras.git  ```
-  * Abra o projeto no Android Studio 
+  * Abra o projeto no Android Studio.
   * Conecte seu dispositivo android ou emuladorao Android Studio e rode o app.
